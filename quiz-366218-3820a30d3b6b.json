@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "quiz-366218",
+  "private_key_id": "3820a30d3b6be4890ec2b3661b85d8414a16230d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQDGPRVHv2OLyx3x\nKJkMiOt0tk6bgTD1mteQr0MiFDDWuliXFGQrtGzv4+W9RpVo2dE0A3SXNjFUE9AS\n/23DFk8AoqVFLpg2gQwoFHty2QWD98NdNS0gY3YXCPY1zt2mjXIuUAWI9eQlYJPu\nZIbfYXqMJlUO3Hg6WZk1TQDmAZRmoc9ElDd1lA0V1/mp/0Qo35ifVUJe/de1Hl1T\ndyTD0tL7PxxSMox9uJ447EtreXOvne3DzUbRF444Z9bv157X4cEmPQ0qV+6XFN6e\nH9oEz6toqoGRSMS4MN6iNdT88yvd2Mcu+fAgZSy8b8Ns3wAddh0gMylr4ba5CGTB\nwz+6wk0bAgMBAAECgf9HoMqPohfV6w5mlMS4QsDQ6w58IbIPDGPXY3xeU+1RqQNZ\nk4SeRhMWmsHoIhjaSdnNcXIvMOWh+4azVpfSZb0l/Z654JwfFYHO+ZehZ8kWZe+x\nPgWQLl/88sADsTtlcrZPBZr6Yd6NotfQy4HwNMiS20bgl8jZTIaPO8OXV/rHGg1y\nEsxWmpL2ivTZ9q1t+M6lf9L3GH+EVcjLWB2VAPW0/ka4QJr+ZAd+QYacAZ6foypr\nX7uGjqfpqIlG3Aoor0KkXV91uznQcXomnuASA0W5HoJBUjH3Cm75s8JeyXcnzdxd\nEDzUmDk58Cu5Ny8KcUzuVTXHl2vXRNYRk+beCvECgYEA5slcgXgJyzRKY22gJAUS\n9eWyPl8dzL9AGglZIHOidGpknIwd8KOGOPWp3nIb9VCrre2+bpQxlNlTJsf2EZ8i\nwHtC5aUi7Uuh7+zS+WTRvBR6ACsTRbo5qh5C/eFDBlYftcgSygeQBRgt8gidpHNj\n7C7o1soSrk11IpP8kY8hWIsCgYEA2+VrnrXawmNOJ9Ns4ipODlUn8LmGMsdH+vmA\ng9NRduQCrNlf0SOMRyQG3tElgimmuXOzGCt9sB0sWoprDdzLrh7eb/ZjiinFJyrN\nfztJGDCC4/7lX8HPWzd3CLlPvIWXz+Zrtk3hdaEKwFa7Y0HwCSmoB5ir4dyE7jez\nY5kZ37ECgYAZjFsAPiCfbSd7AEzFEAa8T/Q+cVskKlvXRgemzwZB6vE+X0iFNiUK\nsy9d37X2nzqSI4p8RU2D09cfqO01oC9BraOHNpO6PzArFkV4tE9/iajD0gDtLCNs\nELOL1V8NGYWjIwXpdZLc7YNQkuGYrel24O6HsJEG2K5J6KYCGx0u5wKBgH7FFnQa\n9xDV2zrOgpkoNnPA2BPJgPpJNNAVgud8rhxSetBXSQvy6G4i8OsHvA38ISgM8ZTf\njcg4KVfRMMJ/JdUt6qK1ctE2H3jjDjFpZkxRu0PhsS6xNu+pXDBlVPikM88hUbt5\nzp7XxrD3z3P7kXxWzY4DkCPX07LZ3ctveiEhAoGBANW6Hz382/3jwZDTdwKgCeMT\np/URFGdC0mJmgfAedR1BzM45bF8tAnl2BaWeCQtB++VNrSW1wBFGzRnIoNQ0+GOI\nXCeKznRMx7KoDqA7M++gj5+/hz87+Yr2CXuLZfRq9uMASsGJyOZ566hCLeitDX4a\nbXtRM2pMkaVsJOT/mDlB\n-----END PRIVATE KEY-----\n",
+  "client_email": "pythonprojprototype@quiz-366218.iam.gserviceaccount.com",
+  "client_id": "103417651695096287355",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pythonprojprototype%40quiz-366218.iam.gserviceaccount.com"
+}
